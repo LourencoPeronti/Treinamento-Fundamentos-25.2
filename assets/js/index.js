@@ -20,11 +20,19 @@ const produtos = [
     {
         id: "2",
         nome: "Relógio Dobrado",
-        preco: "R$1550,39",
-        descricao: "Não consegue fazer tudo em 24h? Não se preocupe, este relógio deixa seu dia com 48h (Talvez ainda não seja suficiente para o politécnico)",
-        img: "assets/imgs/pocao-removebg-preview.png",
+        preco: "R$10.000,99",
+        descricao: "Não consegue fazer tudo em 24h? Não se preocupe, este relógio deixa seu dia com 48h (Talvez ainda não seja suficiente para o politécnico). Bem melhor que um Rolex",
+        img: "assets/imgs/relogio.png",
         isOnCarrinho: false
     },
+    {
+        id: "3",
+        nome: "Arma encolhedora",
+        preco: "R$956,75",
+        descricao: "Dificuldade em entender defeitos cristalinos e estruturas atômicas? Com esta arma, você poderá ficar do tamanho de um átomo e entendê-las de uma ves por todas.",
+        img: "assets/imgs/arma-removebg-preview.png",
+        isOnCarrinho: false
+    }
     
     
 ]
